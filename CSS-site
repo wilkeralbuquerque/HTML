@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lobster', cursive;
+}
+
+body{
+  background-color: grey;
+}
+
+header{
+  position: fixed;
+  width: 100%;
+  margin-top:0px;
+  background-color: black;
+}
+
+.center{
+  display: flex ;
+    margin-left: 12%;
+}
+
+.menu{
+  text-align: center;
+  margin-left: 10%;
+  padding: 60px;
+  font-size: 30px;
+  }
+  .menu a{
+      margin-right: 50px;
+  }
+
+.espaçoHeader{
+  height: 174px;
+  width: 100%
+}
+img{
+  height: 170px;
+}
+
+.menu{
+
+}
+
+.vitrineGeral{
+  margin: 10%;
+  background-color: white;
+
+}
