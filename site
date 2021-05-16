@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Outlet-Wilker</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content:"Outlet, Roupas, Moda Masculina, ultimas tendencias">
+    <meta name="author" content="Wilker Albuquerque">
+    <link  rel="stylesheet" href="siteFolhaDeEstilo.CSS">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <div class="center">
+        <div id="home">
+          <a href="Site.html">
+            <img src="Logo.png", alt="logo site ">
+          </a>
+        </div>
+        <div class="menu">
+          <a href="#">
+            Camisas
+          </a>
+          <a href="#">
+            Camisetas
+          </a>
+          <a href="#">
+            Jaquetas
+          </a>
+          <a href="#">
+            Blusas
+          </a>
+          <a href="#">
+            Calçados
+          </a>
+        </div>
+      </div>
+    </header>
+    <div class="espaçoHeader">
+    </div>
+    <div class="vitrineGeral">
+      <div class= "vitrine-1">
+        <div>
+
+        </div>
+        <div>
+          <img>
+          <a></a>
+        </div>
+        <div>
+          <img>
+        </div>
+        <div>
+          <img>
+        </div>
+      </div>
+      <div class="vitrine-2">
+        <div>
+          <img>
+        </div>
+        <div>
+          <img>
+        </div>
+        <div>
+          <img>
+        </div>
+        <div>
+          <img>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
