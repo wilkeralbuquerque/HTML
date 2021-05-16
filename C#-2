@@ -1,0 +1,23 @@
+using System;
+
+namespace exercicios_estrutura_condicional
+{
+    class Program
+    {
+        private static void Main(string[] args)
+        {
+            Console.WriteLine("Entre com dois numeros separados por um espaço:");
+            string numeros = Console.ReadLine();
+            string[] x = numeros.Split(' ');
+            int count = 0;
+            int i = x.Length;
+            int[] y = new int[i];
+            foreach (var textoRecebido in x)
+            {
+                Console.WriteLine(int.TryParse(textoRecebido));
+               
+            }
+
+        }
+    }
+}
